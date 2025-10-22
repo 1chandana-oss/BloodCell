@@ -1,0 +1,17 @@
+# Python / Flask
+venv/
+__pycache__/
+*.pyc
+instance/
+*.db
+
+# React / Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# System files
+.DS_Store
+Thumbs.db
+backend/bloodcell_resnet18_best.pth
+backend/class_indices.json
